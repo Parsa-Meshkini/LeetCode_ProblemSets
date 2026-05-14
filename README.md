@@ -37,3 +37,4 @@ The repository is continuously updated with new problems and optimized solutions
 ## Profile
 
 GitHub: https://github.com/Parsa-Meshkini
+Linkdin: https://www.linkedin.com/in/parsameshkini/
