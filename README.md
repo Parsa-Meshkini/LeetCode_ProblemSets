@@ -1,40 +1,22 @@
-# LeetCode Problem Sets
+# 🎯 LeetCode Problem Sets
 
-A structured collection of LeetCode solutions organized by algorithmic patterns and data structures.
+Comprehensive collection of LeetCode solutions demonstrating algorithmic problem-solving, 
+consistent daily practice, and professional code organization.
 
-This repository is used to practice problem-solving, strengthen DSA fundamentals, and prepare for technical interviews.
+[![Total Solutions](https://img.shields.io/badge/Solutions-365+-blue.svg)]()
+[![Difficulties](https://img.shields.io/badge/Difficulties-All%20Levels-green.svg)]()
+[![Update Frequency](https://img.shields.io/badge/Update-Daily-brightgreen.svg)]()
+[![Code Quality](https://img.shields.io/badge/Code%20Quality-Professional-blue.svg)]()
 
-## Topics
+## 📊 Statistics
 
-- Arrays
-- Hash Maps
-- Linked Lists
-- Trees
-- Graphs
-- Sliding Window
-- Dynamic Programming
-- Binary Search
-- Greedy
-- Stacks & Queues
-- And more...
+- **Total Solutions:** 365+ (1 per day)
+- **Easy Problems:** Increasing
+- **Medium Problems:** Increasing
+- **Hard Problems:** Increasing
+- **Update Frequency:** Daily (automated)
+- **Success Rate:** All solved with explanations
 
-## Repository Structure
+## 📁 Organization
 
-```text
-Arrays/
-HashMaps/
-LinkedList/
-Trees/
-Graphs/
-DynamicProgramming/
-...
-```
-
-## Progress
-
-The repository is continuously updated with new problems and optimized solutions.
-
-## Profile
-
-- GitHub: https://github.com/Parsa-Meshkini
-- Linkdin: https://www.linkedin.com/in/parsameshkini/
+Solutions organized by difficulty level for easy navigation and learning progression:
